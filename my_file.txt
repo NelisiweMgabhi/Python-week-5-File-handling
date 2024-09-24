@@ -1,0 +1,6 @@
+Hello, this is line 1.
+The number 42 is present here.
+Python file handling is cool.
+Here is an additional line.
+The number 99 has been appended.
+Appending is complete.
